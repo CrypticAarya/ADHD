@@ -1,0 +1,30 @@
+{
+    "concepts": [
+      {
+        "id": "linear_equations",
+        "name": "Linear Equations",
+        "prerequisites": ["algebra_basics"],
+        "lesson": "Linear equation is equation of degree 1. Example 2x+4=0",
+        "questions": [
+          {
+            "q": "Solve: 2x+4=0",
+            "options": ["-2","2","4","0"],
+            "answer": "-2"
+          }
+        ]
+      },
+      {
+        "id": "algebra_basics",
+        "name": "Algebra Basics",
+        "prerequisites": [],
+        "lesson": "Algebra uses variables like x",
+        "questions": [
+          {
+            "q": "x+2=5, x=?",
+            "options": ["3","5","2","1"],
+            "answer": "3"
+          }
+        ]
+      }
+    ]
+  }
